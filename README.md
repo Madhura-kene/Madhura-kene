@@ -5,7 +5,7 @@
 <br />
 
 <div align="center">
-  <h1>Hi, I'm Madhura Kene (Chiu) 👋</h1>
+  <h1>Hi, I'm Madhura Kene👋</h1>
   <p><strong>Electronics & Computer Engineering Student | AI Agent Creator | IoT & Hardware Enthusiast</strong></p>
   
   <p>
