@@ -9,6 +9,13 @@
   </p>
 </div>
 
+<br />
+
+<div align="center">
+  <img src="./scene_render.png" alt="Blender Landscape Simulation Render" width="100%" style="border-radius: 8px;" />
+  <p><em>3D Landscape Environment (scene2.blend) rendered with Blender EEVEE</em></p>
+</div>
+
 ---
 
 ### Professional Profile
