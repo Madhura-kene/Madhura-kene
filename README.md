@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Madhura Kene</h1>
+  <h1>Chiu</h1>
   <p><strong>Electronics & Computer Engineering Student | AI Agent Creator | IoT & Hardware Developer</strong></p>
   
   <p>
