@@ -1,17 +1,11 @@
 <div align="center">
-  <img src="./github_profile_banner.png" alt="Madhura Kene Banner" width="100%" style="border-radius: 8px;" />
-</div>
-
-<br />
-
-<div align="center">
   <h1>Madhura Kene</h1>
   <p><strong>Electronics & Computer Engineering Student | AI Agent Creator | IoT & Hardware Developer</strong></p>
   
   <p>
-    <a href="https://linkedin.com/in/madhura-kene-a471503b4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://www.instagram.com/notyouraveragepotatu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="mailto:madhurakene@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://linkedin.com/in/madhura-kene-a471503b4"><img src="https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" /></a>
+    <a href="https://www.instagram.com/notyouraveragepotatu/"><img src="https://img.shields.io/badge/Instagram-1E293B?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+    <a href="mailto:madhurakene@gmail.com"><img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email" /></a>
   </p>
 </div>
 
@@ -34,39 +28,39 @@ I am an Electronics & Computer Engineering student focused on bridging physical 
     <td width="50%" valign="top">
       <strong>Programming Languages</strong>
       <br /><br />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+      <img src="https://img.shields.io/badge/C++-1E293B?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C++" />
+      <img src="https://img.shields.io/badge/JavaScript-1E293B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/C-1E293B?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" />
+      <img src="https://img.shields.io/badge/HTML5-1E293B?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1E293B?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
     </td>
     <td width="50%" valign="top">
       <strong>IoT, Hardware & Firmware</strong>
       <br /><br />
-      <img src="https://img.shields.io/badge/ESP32-E67E22?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
-      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
-      <img src="https://img.shields.io/badge/Microcontrollers-Embedded-8E44AD?style=flat-square" alt="MCU" />
-      <img src="https://img.shields.io/badge/Sensors%20%26%20IMUs-MPU6050%20%7C%20LDR-27AE60?style=flat-square" alt="Sensors" />
-      <img src="https://img.shields.io/badge/Bluetooth%20LE-BLE%20HID-0082FC?style=flat-square" alt="BLE" />
+      <img src="https://img.shields.io/badge/ESP32-1E293B?style=for-the-badge&logo=espressif&logoColor=E67E22" alt="ESP32" />
+      <img src="https://img.shields.io/badge/Arduino-1E293B?style=for-the-badge&logo=arduino&logoColor=00979D" alt="Arduino" />
+      <img src="https://img.shields.io/badge/Microcontrollers-1E293B?style=for-the-badge&logo=stmicroelectronics&logoColor=8E44AD" alt="MCU" />
+      <img src="https://img.shields.io/badge/Sensors%20%26%20IMUs-1E293B?style=for-the-badge&logo=sensortower&logoColor=27AE60" alt="Sensors" />
+      <img src="https://img.shields.io/badge/Bluetooth%20LE-1E293B?style=for-the-badge&logo=bluetooth&logoColor=0082FC" alt="BLE" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <strong>AI, LLMs & Automation</strong>
       <br /><br />
-      <img src="https://img.shields.io/badge/Ollama-Local%20LLMs-FF5733?style=flat-square" alt="Ollama" />
-      <img src="https://img.shields.io/badge/AI%20Agents-Intelligent%20Workflows-9B59B6?style=flat-square" alt="AI Agents" />
-      <img src="https://img.shields.io/badge/Codex%20%2F%20Copilot-Development-2C3E50?style=flat-square" alt="Codex" />
+      <img src="https://img.shields.io/badge/Ollama-1E293B?style=for-the-badge&logo=ollama&logoColor=FFFFFF" alt="Ollama" />
+      <img src="https://img.shields.io/badge/AI%20Agents-1E293B?style=for-the-badge&logo=openai&logoColor=9B59B6" alt="AI Agents" />
+      <img src="https://img.shields.io/badge/Copilot-1E293B?style=for-the-badge&logo=githubcopilot&logoColor=2C3E50" alt="Codex" />
     </td>
     <td width="50%" valign="top">
       <strong>Tools & Platforms</strong>
       <br /><br />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-      <img src="https://img.shields.io/badge/PlatformIO-F5A623?style=flat-square&logo=platformio&logoColor=white" alt="PlatformIO" />
-      <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino IDE" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Git-1E293B?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+      <img src="https://img.shields.io/badge/VS%20Code-1E293B?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="VS Code" />
+      <img src="https://img.shields.io/badge/PlatformIO-1E293B?style=for-the-badge&logo=platformio&logoColor=F5A623" alt="PlatformIO" />
+      <img src="https://img.shields.io/badge/Arduino%20IDE-1E293B?style=for-the-badge&logo=arduino&logoColor=00979D" alt="Arduino IDE" />
+      <img src="https://img.shields.io/badge/Node.js-1E293B?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" />
     </td>
   </tr>
 </table>
@@ -115,15 +109,15 @@ I am an Electronics & Computer Engineering student focused on bridging physical 
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Madhura-kene&show_icons=true&theme=tokyonight&count_private=true" alt="Madhura's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Madhura-kene&show_icons=true&theme=react&count_private=true" alt="Madhura's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhura-kene&theme=tokyonight" alt="Madhura's GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhura-kene&theme=react" alt="Madhura's GitHub Streak" />
       </td>
     </tr>
   </table>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhura-kene&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhura-kene&layout=compact&theme=react&hide=html,css" alt="Top Languages" />
 </div>
 
 ---
