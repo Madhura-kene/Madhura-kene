@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Chiu</h1>
+  ![Preview](assets/preview.jpg)
   <p><strong>Electronics & Computer Engineering Student | AI Agent Creator | IoT & Hardware Developer</strong></p>
   
   <p>
